@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Nick Cuda
+# FILENAME: perceptrion.py
+# SPECIFICATION: trains and evaluates both a Perceptron and an MLP neural network on the Optdigits dataset
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: About 45 minutes
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU ARE ALLOWED TO USE ANY PYTHON LIBRARY TO COMPLETE THIS PROGRAM
